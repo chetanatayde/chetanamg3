@@ -1,0 +1,45 @@
+2023-03-07 22:14:17,555  INFO [main] Saucedemoproject:47 - Window is maximized
+2023-03-07 22:14:19,772  INFO [main] Saucedemoproject:51 - Url is opened
+2023-03-07 22:14:21,272  INFO [main] Saucedemoproject:57 - Username is enterd
+2023-03-07 22:14:21,515  INFO [main] Saucedemoproject:60 - Password is enterd
+2023-03-07 22:14:22,227  INFO [main] Saucedemoproject:63 - Click on loginbtn
+2023-03-07 22:14:22,817  INFO [main] Saucedemoproject:20 - Title testcase is passed
+2023-03-07 22:14:23,802  INFO [main] Saucedemoproject:90 - Browser is closed
+2023-03-07 22:14:23,803  INFO [main] Saucedemoproject:91 - End of program
+2023-03-07 22:14:27,317  INFO [main] Saucedemoproject:47 - Window is maximized
+2023-03-07 22:14:32,238  INFO [main] Saucedemoproject:51 - Url is opened
+2023-03-07 22:14:32,516  INFO [main] Saucedemoproject:57 - Username is enterd
+2023-03-07 22:14:32,702  INFO [main] Saucedemoproject:60 - Password is enterd
+2023-03-07 22:14:32,951  INFO [main] Saucedemoproject:63 - Click on loginbtn
+2023-03-07 22:14:33,913  INFO [main] Saucedemoproject:33 - Clicked on all products
+2023-03-07 22:14:34,623  INFO [main] Saucedemoproject:36 - add to cart contains 6 items
+2023-03-07 22:14:34,817  INFO [main] Saucedemoproject:40 - click on bagproduct
+2023-03-07 22:14:34,884  INFO [main] Saucedemoproject:52 - all product add to cart testcase is failed
+2023-03-07 22:14:35,571  INFO [main] Saucedemoproject:90 - Browser is closed
+2023-03-07 22:14:35,571  INFO [main] Saucedemoproject:91 - End of program
+2023-03-07 22:14:39,843  INFO [main] Saucedemoproject:47 - Window is maximized
+2023-03-07 22:14:46,204  INFO [main] Saucedemoproject:51 - Url is opened
+2023-03-07 22:14:46,523  INFO [main] Saucedemoproject:57 - Username is enterd
+2023-03-07 22:14:46,702  INFO [main] Saucedemoproject:60 - Password is enterd
+2023-03-07 22:14:46,919  INFO [main] Saucedemoproject:63 - Click on loginbtn
+2023-03-07 22:14:46,926  INFO [main] Saucedemoproject:14 - apply varification
+2023-03-07 22:14:46,983  INFO [main] Saucedemoproject:21 - Log out testcase is passed
+2023-03-07 22:14:47,920  INFO [main] Saucedemoproject:90 - Browser is closed
+2023-03-07 22:14:47,921  INFO [main] Saucedemoproject:91 - End of program
+2023-03-07 22:14:51,039  INFO [main] Saucedemoproject:47 - Window is maximized
+2023-03-07 22:14:54,717  INFO [main] Saucedemoproject:51 - Url is opened
+2023-03-07 22:14:54,927  INFO [main] Saucedemoproject:57 - Username is enterd
+2023-03-07 22:14:55,118  INFO [main] Saucedemoproject:60 - Password is enterd
+2023-03-07 22:14:55,369  INFO [main] Saucedemoproject:63 - Click on loginbtn
+2023-03-07 22:14:55,373  INFO [main] Saucedemoproject:11 - apply verification
+2023-03-07 22:14:56,111  INFO [main] Saucedemoproject:90 - Browser is closed
+2023-03-07 22:14:56,111  INFO [main] Saucedemoproject:91 - End of program
+2023-03-07 22:15:00,259  INFO [main] Saucedemoproject:47 - Window is maximized
+2023-03-07 22:15:06,589  INFO [main] Saucedemoproject:51 - Url is opened
+2023-03-07 22:15:06,879  INFO [main] Saucedemoproject:57 - Username is enterd
+2023-03-07 22:15:07,117  INFO [main] Saucedemoproject:60 - Password is enterd
+2023-03-07 22:15:07,433  INFO [main] Saucedemoproject:63 - Click on loginbtn
+2023-03-07 22:15:07,439  INFO [main] Saucedemoproject:19 - apply validation
+2023-03-07 22:15:07,932  INFO [main] Saucedemoproject:32 - all product add to cart testcase is failed
+2023-03-07 22:15:08,747  INFO [main] Saucedemoproject:90 - Browser is closed
+2023-03-07 22:15:08,747  INFO [main] Saucedemoproject:91 - End of program
